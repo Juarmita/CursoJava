@@ -34,5 +34,11 @@ public class Variables {
         System.out.println(precio);
         float precio2 = 140f;
         System.out.println(precio2);
+        //Declaraciion de tipo double. Tiene doble precisión, hasta 15 digitos.
+        double precio3 = 115.53;
+        System.out.println(precio3);
+        //Declaracion de tipo string, Cadenas de caracteres. Los String en Java son objetos
+        String frase = "Bienvenidos al curso";
+        System.out.println(frase);
     }
 }
